@@ -1,12 +1,11 @@
-## Hi there 👋
+# Welcome to 🥞 Polar Lab!
 
-<!--
+> Hello and welcome to the official Polar Lab  repository! Here you will find all of our projects, apps and  code.
+ ## ✨ Official Domains
+> Polar Lab has a couple of official domains, any other domains claiming to be us are to not be trusted.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+ - **polarlab.app** - The main website
+ - **docs.polarlab.app** - Our docs website
+ - **api.polarlab.app** - Our API endpoint website (/v2/route)
+ - **link.polarlab.app** - Official url shortener
+ - **cdn.polarlab.app** - All of our source files
